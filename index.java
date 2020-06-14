@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class arrays {
+class Calculadora {
 
     private static long suma(int[] lista_numeros){
         long oput = 0;
